@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> All About Birds</title>
+<link rel="stylesheet" href="webpagestyle.css">
+<style>
+.navigationmenu {
+	text-align:center;
+	border: 4px solid black;
+}
+</style>
+</head>
+<body>
+<h1><em>All About Birds</em></h1>
+&nbsp; <img src= "bluebird.jpg" alt="a tiny bird" width="600" height="360">
+&nbsp;
+<p class="navigationmenu"><a href="birdwebsite.html">Home</a> &nbsp; <a href="train.html">Training</a> &nbsp; <a href="birdbrandfinal.html">Bird Brands</a> &nbsp; <a href="howtocarefinal.html"> How To Care</a> &nbsp;<a href="contactinfothree.html"> Contact Info</a> &nbsp;</p>
+<h2>The Main Goal</h2>
+<p> My website is here to inform you on how to take care of your brand new bird. This website can also help you find out new tips and tricks for the bird you currently have.</p>
+
+<br><h2>Things You Will Find</h2>
+<ul style= "list-style: none;">
+<li> Bird Types</li>
+<li>How to care for them</li>
+<li> Good brands to use</li>
+<li> Training tips</li>
+<li> How to get your birds to open up</li>
+</ul>
+<br><h2>Relatable Websites to Visit</h2>
+<ul style="list-style:none;">
+<li><a href="https://www.kaytee.com/learn-care/pet-birds/general-care#:~:text=Pet%20Bird%20General%20Care&text=The%20right%20pet%20bird%20diet,pet%20bird%20from%20the%20substrate.">Kaytee.com</a></li>
+<li><a href="https://www.petsmart.com/learning-center/bird-care/so-you-want-a-pet-bird/A0035.html">Petsmart.com</a></li>
+</ul>
+<br> <a href = "http://validator.w3.org/check?uri=referer">
+         <img src ="valid-html20" 
+                 alt ="Validate HTML!"
+              style = "border: 0; width: 88px; height: 31px"  />
+  </a> 
+  <a href = "http://jigsaw.w3.org/css-validator/check/referer">
+    <img src = "valid_css"
+            alt = "Validate CSS!" 
+            style = "border: 0; width: 88px; height: 31px"/>
+  </a>
+			  
+			  <br>
+<br><footer> Made by Khira Mcgregor</footer>
+<img src="birdbox.jpg" alt="birdbox">
